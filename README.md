@@ -6,7 +6,7 @@
 
 Je reçois parfois des questions par courriel. En la posant ici, tout le monde peut lire la réponse !
 
-[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
+[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/tiger7789/ama.fr)
 
 N'importe quoi veut vraiment dire *n'importe quoi*.
 Des questions personnelles. Argent. Travail. Vie. Code.
@@ -22,25 +22,20 @@ Cuisine. Voyage. Sports. Enseignement. Pokémon. N'importe quoi. :joy:
  - :heart_eyes: Si vous utilisez une *emoji* dans votre question, la réponse devrait arriver plus vite !
 
 ### *En anglais ? In English?*
-[En Français / In French :fr:](https://github.com/Naereen/ama.fr) ou
-[En anglais / In English :gb::us:](https://github.com/Naereen/ama)
+[En Français / In French :fr:](https://github.com/tiger7789/ama.fr) ou
+[En anglais / In English :gb::us:](https://github.com/tiger7789/ama)
 
 ----
 
-### Liens
-
- - [D'autres AMAs](https://github.com/sindresorhus/amas).
- - [Qu'est-ce qu'une AMA ?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
-
 ## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/ama.fr.svg)](https://github.com/Naereen/ama.fr/blob/master/LICENSE)
 Ce (petit) dépôt est publié sous les conditions de la [licence MIT](http://lbesson.mit-license.org/) (fichier [LICENSE.txt](LICENSE.txt), en anglais).
-© [Lilian Besson](https://GitHub.com/Naereen), 2016-17.
+© [Lilian Besson](https://GitHub.com/tiger7789), 2023-10.
 
-[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/Naereen/ama.fr/graphs/commit-activity)
-[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/ama.fr/README.md?pixel)](https://GitHub.com/Naereen/ama.fr/)
+[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/tiger7789/ama.fr/graphs/commit-activity)
+[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/tiger7789/ama.fr)
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/ama.fr/README.md?pixel)](https://GitHub.com/tiger7789/ama.fr/)
 
-[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/tiger7789/)
 
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
